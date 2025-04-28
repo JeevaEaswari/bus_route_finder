@@ -1,0 +1,6 @@
+Bus No.,From,To,Departure,Arrival,Fare (₹),Type,Stops
+101,Chennai,Mahabalipuram,07:00 AM,09:00 AM,60,Local,"Chennai,Thiruvanmiyur,Mahabalipuram"
+201,Madurai,Rameshwaram,06:30 AM,11:00 AM,150,Express,"Madurai,Ramanathapuram,Rameshwaram"
+301,Coimbatore,Ooty,05:00 AM,09:00 AM,120,Local,"Coimbatore,Mettupalayam,Coonoor,Ooty"
+401,Chennai,Pondicherry,08:00 AM,11:00 AM,100,Government,"Chennai,Mahabalipuram,Kalapet,Pondicherry"
+501,Trichy,Kodaikanal,07:00 AM,01:00 PM,180,Express,"Trichy,Dindigul,Kodaikanal"
